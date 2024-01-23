@@ -1,16 +1,20 @@
 {
     "doctors": [
-               {
-            "id": "42f5a2ad-fb49-4b04-a60e-c5a22b671051",
-            "lanr": "429042427",
-            "office": "574451100",
-            "firstname": "Gottlieb",
-            "lastname": "Pürtzelt",
-            "title": "Prof.",
-            "registrationDate": "2021-09-23",
-            "cancellationDate": "2021-12-17",
-            "createdAt": "2022-11-15T21:37:48",
-            "updatedAt": "2020-09-06T03:28:30"
+        {
+        "id": "7f55faac-8a8f-4199-9a6d-5dcd2db99ae2",
+        "lanr": "229579182",
+        "firstname": "Anna",
+        "lastname": "Schmidt",
+        "title": "Prof.",
+        "registration-date": "1998-10-27",
+        "cancellation-date": null,
+        "bsnr": "667793281",
+        "name": "Stadtkrankenhaus Hamburg",
+        "address": "Bahnhofstr. 3",
+        "zip-code": "51719",
+        "city": null,
+        "phone": "+49 994 2140603",
+        "email": null
         }
     ]
 }
